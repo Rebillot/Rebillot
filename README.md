@@ -2,7 +2,7 @@
 
 I'm a Junior Full Stack Developer passionate about learning new technologies.
 
-- 🌱 I’m currently learning Python, and I'm excited to expand my skills in C next month.
+- 🌱 I’m currently learning React Native.
 
 ### 🚀 Future Interests
 
